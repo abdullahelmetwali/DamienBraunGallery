@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,e as n,a as e}from"./index-uGF-jDec.js";const c={},a=e("h1",null,"TEST COMPONENT",-1),r=e("p",null,"Hello This is A Test Component",-1);function _(l,i){return t(),s(n,null,[a,r],64)}const p=o(c,[["render",_]]);export{p as default};

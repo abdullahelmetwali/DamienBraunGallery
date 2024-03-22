@@ -1,0 +1,1 @@
+import{d as t}from"./FooterComp-BniwzUlh.js";import{_ as o,o as c,c as r,a as e,k as n}from"./index-uGF-jDec.js";const a={},i={class:"inline-flex gap-2 items-center cursor-pointer"},_={class:"text-main text-sm"},l=e("img",{src:t,class:"w-3"},null,-1);function d(s,m){return c(),r("div",i,[e("div",_,[n(s.$slots,"default")]),l])}const u=o(a,[["render",d]]);export{u as V};
