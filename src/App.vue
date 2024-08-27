@@ -41,7 +41,7 @@ export default {
     </div>
     <div
       class="flex justify-end items-baseline gap-[17rem] w-auto tablet:gap-0 mobile:flex-col mobile:items-center mobile:w-full bg-main mobile:hidden menu">
-      <div class="flex mt-4 mobile:flex-col text-center">
+      <div class="flex mt-4 mr-32 mobile:mr-0 tablet:mr-44 mobile:flex-col text-center">
         <RouterLink to="/" class="py-4 px-6 hover:bg-hover">Home</RouterLink>
         <RouterLink to="/about" class="py-4 px-6 hover:bg-hover">About Me</RouterLink>
         <RouterLink to="/portfolio" class="py-4 px-6 hover:bg-hover">Portfolio</RouterLink>
